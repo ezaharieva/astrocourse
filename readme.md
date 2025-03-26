@@ -36,8 +36,10 @@ To run these exercises, you will need the following Python libraries:
 - matplotlib
 - numpy
 - pandas
+- jupyter (for running the notebooks)
 
 You can install all the dependencies using `pip`:
 
 ```bash
-pip install astropy matplotlib numpy pandas
+pip install astropy matplotlib numpy pandas jupyter
+
