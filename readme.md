@@ -12,7 +12,8 @@ This exercise introduces basic operations in Python for handling **FITS** files 
 - Perform basic data extraction and visualization of star distributions.
 - Explore concepts like **extinction values**, **distance distributions**, and **color-magnitude diagrams** (CMD).
 
-**File:** [Exercise1_workbook](Exercise1_workbook.ipynb)
+**File:** [Exercise1_workbook](ex1.ipynb)
+**PDF Instructions:**[Exercise1_workbook_pdf](astrocourse/pdf_files_md/Exercise1.pdf)
 
 ### Exercise 2: Advanced Plotting and Analysis
 
@@ -21,7 +22,10 @@ This second exercise focuses on advanced plotting techniques and data analysis:
 - Perform data manipulation and visualizations.
 - Explore advanced charting techniques like histograms, scatter plots, and heatmaps.
 
-**File:** [Exercise2_workbook](Exercise2_workbook.ipynb)
+**File:** [Exercise2_workbook](ex2.ipynb)
+**PDF Instructions:**[Exercise2_workbook_pdf](astrocourse/pdf_files_md/Exercise2.pdf)
+
+
 
 ## Requirements
 
