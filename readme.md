@@ -13,6 +13,7 @@ This exercise introduces basic operations in Python for handling **FITS** files 
 - Explore concepts like **extinction values**, **distance distributions**, and **color-magnitude diagrams** (CMD).
 
 **File:** [Exercise1_workbook](ex1.ipynb)
+
 **PDF Instructions:**[Exercise1_workbook_pdf](/pdf_files_md/Exercise1.pdf)
 
 ### Exercise 2: Advanced Plotting and Analysis
@@ -23,6 +24,7 @@ This second exercise focuses on advanced plotting techniques and data analysis:
 - Explore advanced charting techniques like histograms, scatter plots, and heatmaps.
 
 **File:** [Exercise2_workbook](ex2.ipynb)
+
 **PDF Instructions:**[Exercise2_workbook_pdf](/pdf_files_md/Exercise2.pdf)
 
 
